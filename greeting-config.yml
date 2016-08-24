@@ -5,8 +5,6 @@ security:
 management:
   security:
     enabled: false # turn off securing the actuator endpoints
-<<<<<<< HEAD
-=======
     
 logging: # <----New sections below
   level:
@@ -17,4 +15,3 @@ greeting:
   displayFortune: false
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
->>>>>>> 00a73bbfa1b6281712502c5749f5e0124a85cfe3
